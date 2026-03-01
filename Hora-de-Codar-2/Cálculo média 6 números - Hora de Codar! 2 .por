@@ -26,7 +26,7 @@ programa {
 
     real media = (n1 + n2 + n3 + n4 + n5 + n6)/6
     real valorMedia = mat.arredondar(media,2)
-    escreva ("A média aritimética é ", media)
+    escreva ("A média aritimética é ", valorMedia)
 
   }
 }
